@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Hyunwoo Roh"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/IMG_202.jpg"
   bio              : "Curious Person"
   location         : "Chicago"
   email            :
